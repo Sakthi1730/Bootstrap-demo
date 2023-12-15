@@ -1,0 +1,58 @@
+.main{
+    height: 1000px;
+    width: 1000px;
+    background-color: rgb(209, 204, 204);
+}
+.container1{
+    display: grid;
+    gap: 20px;
+    padding: 20px;
+}
+.card1{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 150px;
+    margin: 20px 15px 20px 15px;
+    
+}
+.card2{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin: 20px 15px 20px 15px;
+    
+}
+.card3{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin: 20px 15px 20px 15px;
+    
+}
+.card4{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin: 20px 15px 20px 15px;
+    
+}
+.card5{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin: 20px 15px 20px 15px;
+    
+}
+.card6{
+    background-color: white;
+    text-align: center;
+    height: 400px;
+    width: 100px;
+    margin: 20px 15px 20px 15px;
+    
+}
